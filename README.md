@@ -20,10 +20,24 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 🎯 Passionate about **Data Science, Machine Learning, and NLP**  
 📊 Strong interest in **data-driven problem solving**  
 🧠 Learning by building **real-world projects**  
 🚀 Consistently improving skills through hands-on practice  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github.com/Mayanksharma8853/100-days-of-machine-learning/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
+     width="420" />
+
+</td>
+</tr>
+</table>
 
 ---
 # 💻 Tech Stack:
