@@ -60,25 +60,6 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 ---
 
-extract skills form this code but i want them to be displayed in the format which u hv give me
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Resume Parser using NLP
-- Extracts **Name, Email, Phone Number & Skills**
-- Handles PDF resumes
-- Built with **NLP + Regex**
-- Streamlit-based UI
-
-### 🔹 100 Days of Machine Learning
-- Daily ML & Data Science practice
-- Covers fundamentals → projects
-- Focus on implementation & clarity
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
