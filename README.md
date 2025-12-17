@@ -30,7 +30,6 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 # 💻 Tech Stack:
 
-# 💻 Tech Stack:
 
 <table align="center">
   <tr>
@@ -56,7 +55,8 @@ Aspiring Data Scientist • Machine Learning • NLP
   </tr>
   <tr>
     <td align="center"><b>Streamlit</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="90" /></td>
-    <td align="center"><b>Selenium</b><br/><br/><img src="https://cdn---
+    <td align="center"><b>Selenium</b><br/><br/><img src="https://cdn
+---
 
 ## 📌 Featured Projects
 
