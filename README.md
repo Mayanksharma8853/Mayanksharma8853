@@ -20,13 +20,6 @@ Aspiring Data Scientist • Machine Learning • NLP
      src="https://github.com/Mayanksharma8853/Mayanksharma8853/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
      width="400" />
 
-📊&nbsp;&nbsp;Perform data collection, cleaning, and exploratory analysis to ensure high-quality inputs.  
-🧠&nbsp;&nbsp;Build end-to-end ML pipelines, including feature engineering, model training, evaluation, and optimization.  
-🚀&nbsp;&nbsp;Continuously refine models and workflows to achieve better accuracy, efficiency, and scalability.  
-🛠️&nbsp;&nbsp;Develop reusable, well-documented code that follows best practices and supports maintainability.  
-📦&nbsp;&nbsp;Create deployable applications (e.g., Streamlit apps) to make ML solutions accessible and interactive.  
-📚&nbsp;&nbsp;Stay updated with emerging tools, frameworks, and industry trends to apply modern, effective approaches.  
-🤝&nbsp;&nbsp;Collaborate and learn through projects, experimentation, and community-driven learning.
 
 <div style="margin-left: 6px;">
 📊&nbsp;&nbsp;Perform data collection, cleaning, and exploratory analysis to ensure high-quality inputs.
