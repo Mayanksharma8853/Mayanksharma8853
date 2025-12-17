@@ -27,6 +27,35 @@ Aspiring Data Scientist • Machine Learning • NLP
 📦&nbsp;&nbsp;Create deployable applications (e.g., Streamlit apps) to make ML solutions accessible and interactive.  
 📚&nbsp;&nbsp;Stay updated with emerging tools, frameworks, and industry trends to apply modern, effective approaches.  
 🤝&nbsp;&nbsp;Collaborate and learn through projects, experimentation, and community-driven learning.
+
+<div style="margin-left: 6px;">
+📊&nbsp;&nbsp;Perform data collection, cleaning, and exploratory analysis to ensure high-quality inputs.
+</div>
+
+<div style="margin-left: 6px;">
+🧠&nbsp;&nbsp;Build end-to-end ML pipelines, including feature engineering, model training, evaluation, and optimization.
+</div>
+
+<div style="margin-left: 6px;">
+🚀&nbsp;&nbsp;Continuously refine models and workflows to achieve better accuracy, efficiency, and scalability.
+</div>
+
+<div style="margin-left: 6px;">
+🛠️&nbsp;&nbsp;Develop reusable, well-documented code that follows best practices and supports maintainability.
+</div>
+
+<div style="margin-left: 6px;">
+📦&nbsp;&nbsp;Create deployable applications (e.g., Streamlit apps) to make ML solutions accessible and interactive.
+</div>
+
+<div style="margin-left: 6px;">
+📚&nbsp;&nbsp;Stay updated with emerging tools, frameworks, and industry trends to apply modern, effective approaches.
+</div>
+
+<div style="margin-left: 6px;">
+🤝&nbsp;&nbsp;Collaborate and learn through projects, experimentation, and community-driven learning.
+</div>
+
  
 
 <br clear="right"/>
