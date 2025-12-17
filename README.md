@@ -41,7 +41,7 @@ Aspiring Data Scientist • Machine Learning • NLP
     <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="90" /></td>
     <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="90" /></td>
     <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="110" /></td>
-    <td align="center"><b>SciPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="90" /></td>
+    <td align="center"><b>SciPy</b><br/><br/><img src="https://simpleicons.org/icons/scipy.svg" width="90" height="90" /></td>
   </tr>
   <tr>
     <td align="center"><b>Pandas</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90" /></td>
