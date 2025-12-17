@@ -1,4 +1,4 @@
-https://github.com/Mayanksharma8853/100-days-of-machine-learning/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true
+![image alt](https://github.com/Mayanksharma8853/100-days-of-machine-learning/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true)
 # 💫 About Me:
 Hey there, I'm Mayank Sharma 👋<br><br>I'm a Data Science student who loves exploring machine learning, natural language processing, and end-to-end data pipelines.<br><br>💡 What I Do  <br>- Build ML/NLP models  <br>- Create visualizations with Matplotlib/Seaborn  <br>- Work with real-world datasets  <br>- Automate tasks using Python<br><br>🌱 Currently Learning: Deep Learning & Model Deployment  <br>🚀 Always improving and experimenting with new ideas<br>
 
