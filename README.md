@@ -20,10 +20,17 @@ Aspiring Data Scientist • Machine Learning • NLP
      src="https://github.com/Mayanksharma8853/100-days-of-machine-learning/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
      width="350" />
 
-🎯 Passionate about **Data Science, Machine Learning, and NLP**  
-📊 Strong interest in **data-driven problem solving**  
-🧠 Learning by building **real-world projects**  
-🚀 Consistently improving skills through hands-on practice  
+🎯 Passionate about **Data Science, Machine Learning, and NLP**, focused on designing data-driven solutions that address real-world problems.  
+📊 Perform **data collection, cleaning, and exploratory analysis** to ensure high-quality inputs for reliable models.  
+🧠 Build **end-to-end ML pipelines**, including feature engineering, model training, evaluation, and optimization.  
+📈 Generate **actionable insights and predictive outcomes** through statistical analysis and machine learning techniques.  
+🚀 Continuously refine models and workflows to achieve **better accuracy, efficiency, and scalability**.  
+🛠️ Develop **reusable, well-documented code** that follows best practices and supports maintainability.  
+📦 Create **deployable applications** (e.g., Streamlit apps) to make ML solutions accessible and interactive.  
+🔍 Apply **NLP techniques** for text preprocessing, feature extraction, and information extraction from unstructured data.  
+📚 Stay updated with **emerging tools, frameworks, and industry trends** to apply modern, effective approaches.  
+🤝 Collaborate and learn through **projects, experimentation, and community-driven learning**.  
+
 
 <br clear="right"/>
 
