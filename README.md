@@ -18,7 +18,7 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 <img align="right"
      src="https://github.com/Mayanksharma8853/100-days-of-machine-learning/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
-     width="420" />
+     width="350" />
 
 🎯 Passionate about **Data Science, Machine Learning, and NLP**  
 📊 Strong interest in **data-driven problem solving**  
