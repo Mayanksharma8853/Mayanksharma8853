@@ -17,8 +17,7 @@ Aspiring Data Scientist • Machine Learning • NLP
 ## 👨‍💻 About Me
 
 <img align="right"
-     src="https://github.com/Mayanksharma8853/Mayanksharma8853/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true?"
-"
+     src="https://github.com/Mayanksharma8853/Mayanksharma8853/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
      width="350" />
 
 📊 Perform **data collection, cleaning, and exploratory analysis** to ensure high-quality inputs.  
@@ -30,6 +29,7 @@ Aspiring Data Scientist • Machine Learning • NLP
 🤝 Collaborate and learn through **projects, experimentation, and community-driven learning**.  
 
 <br clear="right"/>
+
 
 
 ---
